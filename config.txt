@@ -1,5 +1,5 @@
 token=NTA1MDQxNTQ3NTQ5NzM2OTYw.DrN0Lg.EMgRm_si9_q2UZiKROEho-rqWh4
-owner=505042405821644815
+owner=490682151239548928
 prefix=sp
 game=
 stayinchannel=true
